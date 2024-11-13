@@ -3,4 +3,5 @@
     margin: auto;
     position: fixed;
     font-size: larger;
+    height: fit-content; #alteração feita na feature demanda 1
 }
