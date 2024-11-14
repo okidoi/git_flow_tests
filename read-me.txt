@@ -1,2 +1,3 @@
 Configuração Inicial
 Alteração feita na branch 1
+Alteração feita na bugfix 2
