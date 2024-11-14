@@ -7,3 +7,7 @@
 #alteração feita na feature demanda 1
 #alteração feita na feature demanda 2
 #nova alteração feita na feature demanda 2. Irei chamar o reabase.
+.span{
+    ::-webkit-textfield-decoration-container;
+    /* CORREÇÂO NA BUGFIX */
+}
