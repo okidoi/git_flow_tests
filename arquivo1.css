@@ -10,4 +10,6 @@
 .span{
     ::-webkit-textfield-decoration-container;
     /* CORREÇÂO NA BUGFIX */
+    /* CORREÇÂO NA HOTFIX 0.0.2 */
+
 }
